@@ -1,0 +1,1800 @@
+2)
+HERB_IDENTITY
+
+Primary Name: Ajamoda
+Canonical Name: Ajamoda
+System: General Herb
+Indian/Common Names: Ajmoda, Ajwain (possible overlap), Karmauli
+English Names: Celery Seed (possible overlap), Celery Fruit (possible overlap), Smallage (possible overlap), Celeriac (possible overlap)
+Botanical Names: Apium leptophyllum (Pers.) F. V. M. ex Benth.
+Normalized Search Aliases: ajamoda, ajmoda, apium leptophyllum, ajwain, karmauli, celery seed, celery fruit, smallage, celeriac
+
+
+## interactions 
+
+Interaction 1
+
+Severity: Moderate
+Drug: Lithium
+Drug Type: Specific Drug
+Drug Class: Mood Stabilizer
+Brand Names: none
+Mechanism: Celery might decrease how well the body eliminates lithium.
+Clinical Effect: Increased lithium levels leading to potential toxicity and serious side effects.
+Recommendation: Consult a healthcare provider; lithium dose adjustment may be required.
+Evidence Text: Taking celery might decrease how well the body gets rid of lithium. This could increase how much lithium is in the body and result in serious side effects.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Venlafaxine (Effexor)
+Drug Type: Specific Drug
+Drug Class: SNRI Antidepressant
+Brand Names: Effexor
+Mechanism: Celery root extract may slow the breakdown of venlafaxine.
+Clinical Effect: Increased effects and side effects of venlafaxine.
+Recommendation: Use cautiously and monitor for enhanced drug effects.
+Evidence Text: Celery root extract might decrease how quickly the body breaks down venlafaxine. Taking celery root extract with venlafaxine might increase the effects and side effects of venlafaxine.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Levothyroxine
+Drug Type: Specific Drug
+Drug Class: Thyroid Hormone
+Brand Names: Synthroid, Levothroid, Levoxyl
+Mechanism: Celery seed may interfere with levothyroxine effectiveness.
+Clinical Effect: Reduced therapeutic effect of levothyroxine.
+Recommendation: Avoid concurrent use or monitor thyroid function.
+Evidence Text: Taking celery seed along with levothyroxine might reduce the effects of levothyroxine.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: none
+Mechanism: Celery root may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Monitor for signs of bleeding and use cautiously.
+Evidence Text: Celery root might slow blood clotting. Taking celery root along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+
+Interaction 5
+
+Severity: Moderate
+Drug: CYP1A2 Substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Celery may alter liver enzyme activity (CYP1A2).
+Clinical Effect: Altered drug effects and side effects.
+Recommendation: Monitor drug response and adjust dose if needed.
+Evidence Text: Some medications are changed and broken down by the liver. Celery might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+Interaction 6
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Celery seed extract may lower blood pressure.
+Clinical Effect: Excessive drop in blood pressure (hypotension).
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Celery seed extract might lower blood pressure. Taking celery seed extract along with medications that lower blood pressure might cause blood pressure to go too low.
+
+Interaction 7
+
+Severity: Minor
+Drug: Photosensitizing drugs
+Drug Type: Drug Class
+Drug Class: Photosensitizers
+Brand Names: none
+Mechanism: Both celery and these drugs increase skin sensitivity to sunlight.
+Clinical Effect: Increased risk of sunburn, blistering, or rashes.
+Recommendation: Use sun protection (sunscreen, protective clothing).
+Evidence Text: Some medications might make the skin more sensitive to sunlight. Celery might also make the skin more sensitive to sunlight. Using these products together might increase the risk of sunburn, blistering, or rashes.
+
+Interaction 8
+
+Severity: Minor
+Drug: Acetaminophen (Tylenol)
+Drug Type: Specific Drug
+Drug Class: Analgesic / Antipyretic
+Brand Names: Tylenol
+Mechanism: Celery juice may prolong the metabolism of acetaminophen.
+Clinical Effect: Increased effects and side effects of acetaminophen.
+Recommendation: Use cautiously and monitor for toxicity.
+Evidence Text: Taking celery juice with acetaminophen prolongs the effects of acetaminophen. Taking celery juice with acetaminophen might increase the effects and side effects of acetaminophen.
+
+Interaction 9
+
+Severity: Minor
+Drug: Aminopyrine
+Drug Type: Specific Drug
+Drug Class: Analgesic
+Brand Names: none
+Mechanism: Celery juice may slow liver breakdown of aminopyrine.
+Clinical Effect: Increased effects and side effects of aminopyrine.
+Recommendation: Use cautiously and monitor for adverse effects.
+Evidence Text: Celery juice might decrease how quickly the liver breaks down and removes aminopyrine. Taking celery juice with aminopyrine might increase the effects and side effects of aminopyrine.
+
+3)
+Primary Name: Amalaki
+Canonical Name: Amalaki
+System: Ayurveda
+
+Indian/Common Names: Aamalaki, Amalaki, Amla, Amla Berry, Aonla, Aovla, Dhatriphala, Neli
+
+English Names: Indian Gooseberry, Emblic, Emblic Myrobalan, Myrobalan Emblic
+
+Botanical Names: Phyllanthus emblica, Emblica officinalis
+
+Normalized Search Aliases: amalaki, aamla, amla berry, aonla, aovla, dhatriphala, emblica officinalis, phyllanthus emblica
+
+Interaction 1
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: none
+Mechanism: Indian gooseberry may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Use cautiously and monitor for signs of bleeding.
+Evidence Text: Indian gooseberry might slow blood clotting. Taking Indian gooseberry along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Indian gooseberry may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely and adjust medication if needed.
+Evidence Text: Indian gooseberry might lower blood sugar levels. Taking Indian gooseberry along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Aspirin
+Drug Type: Specific Drug
+Drug Class: NSAID, Antiplatelet
+Brand Names: none
+Mechanism: Both aspirin and Indian gooseberry slow blood clotting.
+Clinical Effect: Increased chances of bruising and bleeding.
+Recommendation: Monitor for bleeding and consult a healthcare provider if needed.
+Evidence Text: Aspirin can slow blood clotting. Indian gooseberry might also slow blood clotting. Taking Indian gooseberry along with aspirin might increase the chances of bruising and bleeding.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Clopidogrel (Plavix)
+Drug Type: Specific Drug
+Drug Class: Antiplatelet
+Brand Names: Plavix
+Mechanism: Both clopidogrel and Indian gooseberry slow blood clotting.
+Clinical Effect: Increased chances of bruising and bleeding.
+Recommendation: Use cautiously and monitor for bleeding complications.
+Evidence Text: Clopidogrel can slow blood clotting. Indian gooseberry might also slow blood clotting. Taking Indian gooseberry along with clopidogrel might increase the chances of bruising and bleeding.
+
+4)
+HERB_IDENTITY
+
+Primary Name: Amalaki (Drd. Frt.)
+Canonical Name: Amalaki
+System: Ayurveda
+
+Indian/Common Names: Aamalaki, Amalaki, Amla, Amla Berry, Aonla, Aovla, Dhatriphala, Neli
+
+English Names: Indian Gooseberry, Emblic, Emblic Myrobalan, Myrobalan Emblic
+
+Botanical Names: Phyllanthus emblica, Emblica officinalis
+
+Normalized Search Aliases: amalaki, aamla, amla berry, aonla, aovla, dhatriphala, emblica officinalis, phyllanthus emblica
+
+Interaction 1
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: none
+Mechanism: Indian gooseberry may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Use cautiously and monitor for signs of bleeding.
+Evidence Text: Indian gooseberry might slow blood clotting. Taking Indian gooseberry along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Indian gooseberry may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely and adjust medication if needed.
+Evidence Text: Indian gooseberry might lower blood sugar levels. Taking Indian gooseberry along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Aspirin
+Drug Type: Specific Drug
+Drug Class: NSAID, Antiplatelet
+Brand Names: none
+Mechanism: Both aspirin and Indian gooseberry slow blood clotting.
+Clinical Effect: Increased chances of bruising and bleeding.
+Recommendation: Monitor for bleeding and consult a healthcare provider if needed.
+Evidence Text: Aspirin can slow blood clotting. Indian gooseberry might also slow blood clotting. Taking Indian gooseberry along with aspirin might increase the chances of bruising and bleeding.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Clopidogrel (Plavix)
+Drug Type: Specific Drug
+Drug Class: Antiplatelet
+Brand Names: Plavix
+Mechanism: Both clopidogrel and Indian gooseberry slow blood clotting.
+Clinical Effect: Increased chances of bruising and bleeding.
+Recommendation: Use cautiously and monitor for bleeding complications.
+Evidence Text: Clopidogrel can slow blood clotting. Indian gooseberry might also slow blood clotting. Taking Indian gooseberry along with clopidogrel might increase the chances of bruising and bleeding.
+
+6)
+HERB_IDENTITY
+
+Primary Name: Arka (Rt.)
+Canonical Name: Arka
+System: Ayurveda
+
+Indian/Common Names: Aak, Ak, Akada, Akanda, Alarka, Arka, Ushaar, Vellerukku
+
+English Names: Dead Sea Apple, Madar Shrub, Mudar Bark, Sodom Apple, Swallow-Wort
+
+Botanical Names: Calotropis procera, Asclepias procera
+
+Normalized Search Aliases: arka, aak, akada, akanda, madar shrub, calotropis procera
+
+Interaction 1
+
+Severity: Moderate
+Drug: Digoxin (Lanoxin)
+Drug Type: Specific Drug
+Drug Class: Cardiac Glycoside
+Brand Names: Lanoxin
+Mechanism: Both calotropis and digoxin affect heart function.
+Clinical Effect: Increased effects of digoxin and higher risk of toxicity (irregular heartbeat, nausea, dizziness).
+Recommendation: Avoid combination unless advised by a healthcare professional.
+Evidence Text: Digoxin helps the heart beat more strongly. Calotropis also seems to affect the heart. Taking calotropis along with digoxin can increase the effects of digoxin and increase the risk of side effects.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Lithium
+Drug Type: Specific Drug
+Drug Class: Mood Stabilizer
+Brand Names: none
+Mechanism: Calotropis may act like a diuretic and reduce lithium excretion.
+Clinical Effect: Increased lithium levels leading to potential toxicity.
+Recommendation: Consult a healthcare provider; dose adjustment may be required.
+Evidence Text: Calotropis might have an effect like a water pill. Taking calotropis might decrease how well the body gets rid of lithium. This could increase how much lithium is in the body and result in serious side effects.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Stimulant laxatives
+Drug Type: Drug Class
+Drug Class: Laxatives
+Brand Names: Correctol, Dulcolax, Senokot
+Mechanism: Stimulant laxatives reduce potassium levels, which may enhance calotropis effects on the heart.
+Clinical Effect: Increased risk of heart-related side effects due to low potassium.
+Recommendation: Use cautiously and monitor potassium levels.
+Evidence Text: Calotropis can affect the heart. Laxatives called stimulant laxatives can decrease potassium levels in the body. Low potassium levels can increase the chance of side effects from calotropis.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Diuretic drugs
+Drug Type: Drug Class
+Drug Class: Water Pills
+Brand Names: Diuril, Thalitone, Lasix, HydroDiuril, Microzide
+Mechanism: Diuretics may lower potassium levels, enhancing calotropis effects on the heart.
+Clinical Effect: Increased risk of cardiac side effects due to low potassium levels.
+Recommendation: Monitor potassium levels and use cautiously.
+Evidence Text: Calotropis might affect the heart. Water pills can decrease potassium in the body. Low potassium levels can also affect the heart and increase the risk of side effects from calotropis.
+
+7)
+Primary Name: Arka (Lf.)
+Canonical Name: Arka
+System: Ayurveda
+
+Indian/Common Names: Aak, Ak, Akada, Akanda, Alarka, Arka, Ushaar, Vellerukku
+
+English Names: Dead Sea Apple, Madar Shrub, Mudar Bark, Sodom Apple, Swallow-Wort
+
+Botanical Names: Calotropis procera, Asclepias procera
+
+Normalized Search Aliases: arka, aak, akada, akanda, madar shrub, calotropis procera
+
+Interaction 1
+
+Severity: Moderate
+Drug: Digoxin
+Drug Type: Specific Drug
+Drug Class: Cardiac Glycoside
+Brand Names: Lanoxin
+Mechanism: Both calotropis and digoxin affect heart function.
+Clinical Effect: Increased effects of digoxin and higher risk of toxicity.
+Recommendation: Avoid use together unless advised by a healthcare professional.
+Evidence Text: Digoxin helps the heart beat more strongly. Calotropis also seems to affect the heart. Taking calotropis along with digoxin can increase the effects of digoxin and increase the risk of side effects.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Lithium
+Drug Type: Specific Drug
+Drug Class: Mood Stabilizer
+Brand Names: none
+Mechanism: Calotropis may act like a diuretic and reduce lithium elimination.
+Clinical Effect: Increased lithium levels leading to toxicity.
+Recommendation: Consult a healthcare provider; dose adjustment may be required.
+Evidence Text: Calotropis might have an effect like a water pill. Taking calotropis might decrease how well the body gets rid of lithium. This could increase how much lithium is in the body and result in serious side effects.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Stimulant laxatives
+Drug Type: Drug Class
+Drug Class: Laxatives
+Brand Names: none
+Mechanism: Stimulant laxatives reduce potassium levels, enhancing calotropis effects on the heart.
+Clinical Effect: Increased risk of heart-related side effects due to low potassium.
+Recommendation: Monitor potassium levels and use cautiously.
+Evidence Text: Calotropis can affect the heart. Laxatives called stimulant laxatives can decrease potassium levels in the body. Low potassium levels can increase the chance of side effects from calotropis.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Diuretic drugs
+Drug Type: Drug Class
+Drug Class: Water Pills
+Brand Names: none
+Mechanism: Diuretics may lower potassium levels, increasing calotropis effects on the heart.
+Clinical Effect: Increased risk of cardiac side effects due to low potassium levels.
+Recommendation: Monitor potassium levels and use cautiously.
+Evidence Text: Calotropis might affect the heart. Water pills can decrease potassium in the body. Low potassium levels can also affect the heart and increase the risk of side effects from calotropis.
+
+8)
+HERB_IDENTITY
+
+Primary Name: Asana (Ht.Wd.)
+Canonical Name: Asana
+System: Ayurveda
+
+Indian/Common Names: Asan, Asana
+
+English Names: Indian Kino Tree
+
+Botanical Names: Pterocarpus marsupium
+
+Normalized Search Aliases: asana, asan, pterocarpus marsupium
+
+Interaction 1
+
+Severity: Moderate
+Drug: Immunosuppressants
+Drug Type: Drug Class
+Drug Class: Immunosuppressive Agents
+Brand Names: none
+Mechanism: Ashwagandha may increase immune system activity, opposing immunosuppressant effects.
+Clinical Effect: Reduced effectiveness of immunosuppressant medications.
+Recommendation: Avoid combination or consult a healthcare provider.
+Evidence Text: Ashwagandha can increase the activity of the immune system. Taking it along with medications that decrease the immune system might decrease the effects of these medications.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Benzodiazepines
+Drug Type: Drug Class
+Drug Class: Sedatives
+Brand Names: none
+Mechanism: Both ashwagandha and benzodiazepines cause sedation and slowed breathing.
+Clinical Effect: Excessive drowsiness and risk of breathing problems.
+Recommendation: Use cautiously and monitor for excessive sedation.
+Evidence Text: Ashwagandha might cause sleepiness and slowed breathing. Taking it with sedative medications might cause breathing problems and/or too much sleepiness.
+
+Interaction 3
+
+Severity: Moderate
+Drug: CNS depressants
+Drug Type: Drug Class
+Drug Class: Sedatives
+Brand Names: none
+Mechanism: Additive sedative effects with ashwagandha.
+Clinical Effect: Increased drowsiness and respiratory depression risk.
+Recommendation: Monitor closely for sedation and breathing issues.
+Evidence Text: Ashwagandha might cause sleepiness and slowed breathing. Taking it with sedative medications might cause breathing problems and/or too much sleepiness.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Thyroid hormone
+Drug Type: Drug Class
+Drug Class: Hormones
+Brand Names: none
+Mechanism: Ashwagandha may increase thyroid hormone levels.
+Clinical Effect: Excess thyroid hormone leading to increased effects and side effects.
+Recommendation: Monitor thyroid levels and consult a healthcare provider.
+Evidence Text: Ashwagandha might increase how much thyroid hormone the body produces. Taking it with thyroid hormone pills might cause too much thyroid hormone in the body.
+
+Interaction 5
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Ashwagandha may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Ashwagandha might lower blood sugar levels. Taking it along with diabetes medications might cause blood sugar to drop too low.
+
+Interaction 6
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Ashwagandha may lower blood pressure.
+Clinical Effect: Risk of hypotension (low blood pressure).
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Ashwagandha might lower blood pressure. Taking it along with medications that lower blood pressure might cause blood pressure to go too low.
+
+Interaction 7
+
+Severity: Moderate
+Drug: Hepatotoxic drugs
+Drug Type: Drug Class
+Drug Class: Liver-Damaging Agents
+Brand Names: none
+Mechanism: Both ashwagandha and certain medications may harm the liver.
+Clinical Effect: Increased risk of liver damage.
+Recommendation: Avoid combination or monitor liver function.
+Evidence Text: Ashwagandha might harm the liver. Taking it along with a medication that can harm the liver might increase the risk of liver damage.
+
+Interaction 8
+
+Severity: Minor
+Drug: CYP1A2 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Ashwagandha may alter liver enzyme (CYP1A2) activity.
+Clinical Effect: Altered drug effects and side effects.
+Recommendation: Monitor drug response.
+Evidence Text: Ashwagandha might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+Interaction 9
+
+Severity: Minor
+Drug: CYP3A4 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Ashwagandha may alter CYP3A4 enzyme activity.
+Clinical Effect: Altered drug effectiveness and side effects.
+Recommendation: Monitor therapy and adjust dose if needed.
+Evidence Text: Ashwagandha might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+10)
+HERB_IDENTITY
+
+Primary Name: Asvagandha (Rt.)
+Canonical Name: Asvagandha
+System: Ayurveda
+
+Indian/Common Names: Asgandha, Ashwagandha, Asvagandha, Asgand, Asoda, Asundha
+
+English Names: Indian Ginseng, Winter Cherry, Ayurvedic Ginseng
+
+Botanical Names: Withania somnifera
+
+Normalized Search Aliases: asvagandha, ashwagandha, asgandha, indian ginseng, withania somnifera
+
+Interaction 1
+
+Severity: Moderate
+Drug: Immunosuppressants
+Drug Type: Drug Class
+Drug Class: Immunosuppressive Agents
+Brand Names: none
+Mechanism: Ashwagandha may increase immune system activity, counteracting immunosuppressants.
+Clinical Effect: Reduced effectiveness of immunosuppressant therapy.
+Recommendation: Avoid combination or consult a healthcare provider.
+Evidence Text: Ashwagandha can increase the activity of the immune system. Taking ashwagandha along with medications that decrease the immune system might decrease the effects of these medications.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Benzodiazepines
+Drug Type: Drug Class
+Drug Class: Sedatives
+Brand Names: none
+Mechanism: Additive sedative and respiratory depressant effects.
+Clinical Effect: Excessive drowsiness and breathing problems.
+Recommendation: Use cautiously and monitor for sedation.
+Evidence Text: Ashwagandha might cause sleepiness and slowed breathing. Taking ashwagandha with sedative medications might cause breathing problems and/or too much sleepiness.
+
+Interaction 3
+
+Severity: Moderate
+Drug: CNS depressants
+Drug Type: Drug Class
+Drug Class: Sedatives
+Brand Names: none
+Mechanism: Combined sedative effects with ashwagandha.
+Clinical Effect: Increased risk of excessive sleepiness and respiratory depression.
+Recommendation: Monitor closely for CNS depression.
+Evidence Text: Ashwagandha might cause sleepiness and slowed breathing. Taking ashwagandha with sedative medications might cause breathing problems and/or too much sleepiness.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Thyroid hormone
+Drug Type: Drug Class
+Drug Class: Hormones
+Brand Names: none
+Mechanism: Ashwagandha may increase thyroid hormone production.
+Clinical Effect: Excess thyroid hormone levels and increased side effects.
+Recommendation: Monitor thyroid levels and consult a healthcare provider.
+Evidence Text: Ashwagandha might increase how much thyroid hormone the body produces. Taking ashwagandha with thyroid hormone pills might cause too much thyroid hormone in the body.
+
+Interaction 5
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Ashwagandha may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia.
+Recommendation: Monitor blood sugar closely.
+Evidence Text: Ashwagandha might lower blood sugar levels. Taking ashwagandha along with diabetes medications might cause blood sugar to drop too low.
+
+Interaction 6
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Ashwagandha may lower blood pressure.
+Clinical Effect: Risk of hypotension.
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Ashwagandha might lower blood pressure. Taking ashwagandha along with medications that lower blood pressure might cause blood pressure to go too low.
+
+Interaction 7
+
+Severity: Moderate
+Drug: Hepatotoxic drugs
+Drug Type: Drug Class
+Drug Class: Liver-Damaging Agents
+Brand Names: none
+Mechanism: Combined liver toxicity risk.
+Clinical Effect: Increased risk of liver damage.
+Recommendation: Avoid combination or monitor liver function.
+Evidence Text: Ashwagandha might harm the liver. Taking ashwagandha along with a medication that can harm the liver might increase the risk of liver damage.
+
+Interaction 8
+
+Severity: Minor
+Drug: CYP1A2 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Ashwagandha may alter CYP1A2 enzyme activity.
+Clinical Effect: Altered drug effects and side effects.
+Recommendation: Monitor therapy response.
+Evidence Text: Ashwagandha might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+Interaction 9
+
+Severity: Minor
+Drug: CYP3A4 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Ashwagandha may alter CYP3A4 enzyme activity.
+Clinical Effect: Altered drug effectiveness and side effects.
+Recommendation: Monitor therapy and adjust if needed.
+Evidence Text: Ashwagandha might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+12)
+HERB_IDENTITY
+
+Primary Name: Atasi (Sd.)
+Canonical Name: Atasi
+System: Ayurveda
+
+Indian/Common Names: Alasi, Aliviraaii, Kattan, Tisii
+
+English Names: Flax Seed, Linseed, Common Flax, Brown Flaxseed
+
+Botanical Names: Linum usitatissimum, Linum crepitans, Linum humile
+
+Normalized Search Aliases: atasi, alasi, flax seed, linseed, linum usitatissimum
+
+Interaction 1
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: none
+Mechanism: Flaxseed may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Use cautiously and monitor for signs of bleeding.
+Evidence Text: Flaxseed might slow blood clotting. Taking flaxseed along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Flaxseed may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia.
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Flaxseed might lower blood sugar levels. Taking flaxseed along with diabetes medications might cause blood sugar to drop too low.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Flaxseed may lower blood pressure.
+Clinical Effect: Risk of hypotension.
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Flaxseed might lower blood pressure. Taking flaxseed along with medications that lower blood pressure might cause blood pressure to go too low.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Antibiotic drugs
+Drug Type: Drug Class
+Drug Class: Antibiotics
+Brand Names: none
+Mechanism: Antibiotics may reduce gut bacteria needed to convert flaxseed into active lignans.
+Clinical Effect: Altered or reduced effects of flaxseed.
+Recommendation: Use cautiously and monitor effectiveness.
+Evidence Text: Antibiotics kill bacteria in the intestine that convert flaxseed into lignans, which may alter the effects of flaxseed.
+
+Interaction 5
+
+Severity: Moderate
+Drug: Estrogens
+Drug Type: Drug Class
+Drug Class: Hormones
+Brand Names: none
+Mechanism: Flaxseed may act like estrogen and compete with estrogen-containing drugs.
+Clinical Effect: Reduced effectiveness of estrogen medications.
+Recommendation: Use cautiously and consult a healthcare provider.
+Evidence Text: Flaxseed can act like the female hormone estrogen. It might compete with drugs that contain estrogen and make them less effective.
+
+14)
+HERB_IDENTITY
+
+Primary Name: Ativisha (Rt.)
+Canonical Name: Ativisha
+System: Ayurveda
+
+Indian/Common Names: Atis, Ativisha, Bachnag, Bikhma, Vachnag, Vatsnabh
+
+English Names: Monkshood, Blue Monkshood Root, Aconite Root, Wolfsbane
+
+Botanical Names: Aconitum heterophyllum, Aconitum napellus, Aconitum chasmanthum
+
+Normalized Search Aliases: ativisha, atis, aconitum heterophyllum, monkshood, aconite root
+
+Interaction 1
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: none
+Mechanism: Aconite may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Use cautiously and monitor for signs of bleeding.
+Evidence Text: Aconite might slow blood clotting. Taking aconite along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Stimulant drugs
+Drug Type: Drug Class
+Drug Class: Central Nervous System Stimulants
+Brand Names: none
+Mechanism: Both aconite and stimulant drugs may increase nervous system activity.
+Clinical Effect: Increased heart rate, high blood pressure, and risk of serious cardiovascular effects.
+Recommendation: Avoid combination or use under medical supervision.
+Evidence Text: Stimulant drugs speed up the nervous system. Aconite might also speed up the nervous system. Taking aconite along with stimulant drugs might cause serious problems including increased heart rate and high blood pressure.
+
+17)
+HERB_IDENTITY
+
+Primary Name: Bibhitaka (Frt.)
+Canonical Name: Bibhitaka
+System: Ayurveda
+
+Indian/Common Names: Baheda, Bahera, Bahira, Behada, Bhibitaki, Bibhitak, Bibitaki, Vibhitaki
+
+English Names: Beleric Myrobalan, Belleric Myrobalan
+
+Botanical Names: Terminalia belerica, Terminalia bellirica
+
+Normalized Search Aliases: bibhitaka, baheda, bahera, terminalia belerica, belleric myrobalan
+
+Interaction 1
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Terminalia bellirica may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Terminalia bellirica might lower blood sugar levels. Taking Terminalia bellirica along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely.
+
+18)
+HERB_IDENTITY
+
+Primary Name: Bilva (Frt. Pulp)
+Canonical Name: Bilva
+System: Ayurveda
+
+Indian/Common Names: Bilva, Bilwa, Bel, Sripal, Shivaphala
+
+English Names: Bael Tree, Bengal Quince, Indian Bael, Stone Apple
+
+Botanical Names: Aegle marmelos
+
+Normalized Search Aliases: bilva, bel, bael fruit, aegle marmelos, stone apple
+
+Interaction 1
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: Amaryl, DiaBeta, Micronase, Actos, Avandia, Glucotrol
+Mechanism: Bael may decrease blood sugar levels.
+Clinical Effect: Increased risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar closely; dose adjustment may be required.
+Evidence Text: Bael might decrease blood sugar levels. Taking bael along with diabetes medications might cause your blood sugar to drop too low.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Cholinergic drugs
+Drug Type: Drug Class
+Drug Class: Cholinergic Agents
+Brand Names: Pilocar, Aricept, Cognex
+Mechanism: Bael may increase certain chemicals (acetylcholine-like activity) in the body.
+Clinical Effect: Increased risk of side effects due to excess cholinergic activity.
+Recommendation: Use cautiously and monitor for side effects.
+Evidence Text: Bael might increase certain chemicals in the brain, heart, and elsewhere. Taking bael with these medications might increase the chance of side effects.
+
+Interaction 3
+
+Severity: Minor
+Drug: CYP1A2 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Elavil, Haldol, Zofran, Inderal, Theo-Dur, Calan
+Mechanism: Bael may decrease how quickly the liver breaks down these medications.
+Clinical Effect: Increased effects and side effects of these drugs.
+Recommendation: Monitor therapy and consult a healthcare provider.
+Evidence Text: Bael might decrease how quickly the liver breaks down some medications, increasing their effects and side effects.
+
+Interaction 4
+
+Severity: Minor
+Drug: CYP3A4 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Mevacor, Nizoral, Sporanox, Allegra, Halcion
+Mechanism: Bael may decrease liver metabolism via CYP3A4 enzymes.
+Clinical Effect: Increased drug levels and side effects.
+Recommendation: Monitor drug response and adjust if needed.
+Evidence Text: Bael might decrease how quickly the liver breaks down some medications, increasing their effects and side effects.
+
+20)
+HERB_IDENTITY
+
+Primary Name: Chitraka (Rt.)
+Canonical Name: Chitraka
+System: Ayurveda
+
+Indian/Common Names: Chitrak, Chitraka, Chitramoolam, Chitramulamu, Chita
+
+English Names: Leadwort, White Leadwort, White Plumbago, Wild Plumbago
+
+Botanical Names: Plumbago zeylanica
+
+Normalized Search Aliases: chitraka, chitrak, plumbago zeylanica, leadwort, white plumbago
+
+
+Interaction 1
+
+Severity: Moderate
+Drug: CYP1A2 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Clozaril, Flexeril, Luvox, Haldol, Tofranil
+Mechanism: Ceylon leadwort may decrease how quickly the liver breaks down these medications.
+Clinical Effect: Increased drug levels and side effects.
+Recommendation: Monitor therapy and consult a healthcare provider.
+Evidence Text: Ceylon leadwort might decrease how quickly the liver breaks down some medications, increasing their effects and side effects.
+
+Interaction 2
+
+Severity: Moderate
+Drug: CYP2B6 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Ketalar, Norflex, Seconal, Decadron
+Mechanism: Ceylon leadwort may slow liver metabolism of these drugs.
+Clinical Effect: Increased drug effects and risk of side effects.
+Recommendation: Use cautiously and monitor for toxicity.
+Evidence Text: Ceylon leadwort might decrease how quickly the liver breaks down some medications, increasing their effects and side effects.
+
+Interaction 3
+
+Severity: Moderate
+Drug: CYP2C9 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Celebrex, Voltaren, Lescol, Glucotrol, Dilantin
+Mechanism: Ceylon leadwort may alter liver breakdown of these medications.
+Clinical Effect: Increased drug levels and side effects.
+Recommendation: Monitor closely and adjust dosage if necessary.
+Evidence Text: Ceylon leadwort might change how the liver breaks down some medications, increasing their effects and side effects.
+
+Interaction 4
+
+Severity: Moderate
+Drug: CYP2D6 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Elavil, Norpramin, Prozac, Zofran, Ultram
+Mechanism: Ceylon leadwort may decrease metabolism via CYP2D6 enzymes.
+Clinical Effect: Increased drug effects and adverse reactions.
+Recommendation: Monitor therapy and adjust dose if needed.
+Evidence Text: Ceylon leadwort might decrease how quickly the body breaks down some medications, increasing their effects and side effects.
+
+Interaction 5
+
+Severity: Moderate
+Drug: CYP2E1 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Parafon Forte, Ethrane, Fluothane, Forane
+Mechanism: Ceylon leadwort may reduce liver metabolism of these drugs.
+Clinical Effect: Increased risk of toxicity and side effects.
+Recommendation: Use cautiously and monitor patient response.
+Evidence Text: Ceylon leadwort might decrease how quickly the liver breaks down some medications, increasing their effects and side effects.
+
+Interaction 6
+
+Severity: Moderate
+Drug: CYP3A4 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: Versed, Xylocaine, Sublimaze, Cozaar
+Mechanism: Ceylon leadwort may decrease liver metabolism via CYP3A4 enzymes.
+Clinical Effect: Increased drug levels and side effects.
+Recommendation: Monitor therapy and adjust doses if required.
+Evidence Text: Ceylon leadwort might decrease how quickly the liver breaks down some medications, increasing their effects and side effects.
+
+Interaction 7
+
+Severity: Moderate
+Drug: Estrogens
+Drug Type: Drug Class
+Drug Class: Hormones
+Brand Names: Premarin
+Mechanism: Ceylon leadwort may reduce estrogen effectiveness.
+Clinical Effect: Decreased effectiveness of estrogen therapy.
+Recommendation: Consult a healthcare provider before use.
+Evidence Text: Ceylon leadwort might decrease the effects of estrogens.
+
+Interaction 8
+
+Severity: Moderate
+Drug: Immunosuppressants
+Drug Type: Drug Class
+Drug Class: Immunosuppressive Agents
+Brand Names: Imuran, Neoral, Prograf, CellCept
+Mechanism: Ceylon leadwort may affect immune system activity.
+Clinical Effect: Increased effects and side effects of immunosuppressants.
+Recommendation: Use cautiously and monitor closely.
+Evidence Text: Ceylon leadwort can decrease the effects of the immune system and may increase the effectiveness and side effects of medications that decrease the immune system.
+
+Interaction 9
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: Plavix, Coumadin, Lovenox
+Mechanism: Ceylon leadwort may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Monitor for signs of bleeding.
+Evidence Text: Ceylon leadwort might slow blood clotting. Taking it along with medications that also slow clotting might increase the chances of bruising and bleeding.
+
+Interaction 10
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: Amaryl, DiaBeta, Actos, Avandia
+Mechanism: Ceylon leadwort may affect blood sugar control.
+Clinical Effect: Risk of hypoglycemia.
+Recommendation: Monitor blood sugar closely and adjust dose if needed.
+Evidence Text: Ceylon leadwort might make it more difficult to control blood sugar. Taking it with diabetes medications might cause blood sugar to go too low.
+
+21)
+HERB_IDENTITY
+
+Primary Name: Chitraka (Rt.)
+Canonical Name: Chitraka
+System: Ayurveda
+
+Indian/Common Names: Chitrak, Chitraka, Chitramoolam, Chitramulamu, Chita
+
+English Names: Leadwort, White Leadwort, White Plumbago, Wild Plumbago
+
+Botanical Names: Plumbago zeylanica
+
+Normalized Search Aliases: chitraka, chitrak, plumbago zeylanica, leadwort, white plumbago
+
+Interaction 1
+
+Severity: Moderate
+Drug: Photosensitizing drugs
+Drug Type: Drug Class
+Drug Class: Photosensitizers
+Brand Names: none
+Mechanism: Both coriander and these medications may increase skin sensitivity to sunlight.
+Clinical Effect: Increased risk of sunburn, blistering, or skin rashes.
+Recommendation: Use sun protection (sunscreen, protective clothing).
+Evidence Text: Some medications might make the skin more sensitive to sunlight. Coriander might also make the skin more sensitive to sunlight. Using these products together might increase the risk of sunburn, blistering, or rashes.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Coriander may lower blood pressure.
+Clinical Effect: Risk of hypotension (low blood pressure).
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Coriander might lower blood pressure. Taking coriander along with medications that lower blood pressure might cause blood pressure to go too low.
+
+Interaction 3
+
+Severity: Moderate
+Drug: CNS depressants
+Drug Type: Drug Class
+Drug Class: Sedatives
+Brand Names: none
+Mechanism: Additive sedative effects causing slowed breathing.
+Clinical Effect: Excessive drowsiness and risk of respiratory depression.
+Recommendation: Use cautiously and monitor for sedation.
+Evidence Text: Coriander might cause sleepiness and slowed breathing. Taking coriander with sedative medications might cause breathing problems and/or too much sleepiness.
+
+Interaction 4
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Coriander may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia.
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Coriander might lower blood sugar levels. Taking coriander along with diabetes medications might cause blood sugar to drop too low.
+
+
+23)
+HERB_IDENTITY
+
+Primary Name: Eranda (Rt.)
+Canonical Name: Eranda
+System: Ayurveda
+
+Indian/Common Names: Erand, Eranda, Arandi, Gandharva Hasta
+
+English Names: Castor Bean, Castor Oil Plant, Palma Christi, Wonder Tree
+
+Botanical Names: Ricinus communis
+
+Normalized Search Aliases: eranda, erand, arandi, castor bean, ricinus communis
+
+Interaction 1
+
+Severity: Moderate
+Drug: Diuretic drugs
+Drug Type: Drug Class
+Drug Class: Water Pills
+Brand Names: none
+Mechanism: Castor oil (from castor bean) may cause diarrhea leading to potassium loss, while diuretics also decrease potassium levels.
+Clinical Effect: Increased risk of hypokalemia (low potassium levels).
+Recommendation: Monitor potassium levels and use cautiously.
+Evidence Text: Castor oil is a laxative. Some laxatives can cause diarrhea and decrease potassium levels. Water pills can also decrease potassium levels. Taking castor oil along with water pills might make potassium levels drop too low.
+
+25)
+HERB_IDENTITY
+
+Primary Name: Gokshura (Rt.)
+Canonical Name: Gokshura
+System: Ayurveda
+
+Indian/Common Names: Gokshura, Gokhru, Gokantaka, Bindii, Palleru-Mullu
+
+English Names: Puncture Vine, Caltrop, Goathead, Devil’s Thorn
+
+Botanical Names: Tribulus terrestris
+
+Normalized Search Aliases: gokshura, gokhru, tribulus terrestris, puncture vine, caltrop
+
+Interaction 1
+
+Severity: Moderate
+Drug: Lithium
+Drug Type: Specific Drug
+Drug Class: Mood Stabilizer
+Brand Names: none
+Mechanism: Tribulus may act like a diuretic and reduce lithium elimination.
+Clinical Effect: Increased lithium levels leading to potential toxicity.
+Recommendation: Consult a healthcare provider; dose adjustment may be required.
+Evidence Text: Tribulus might have an effect like a water pill. Taking tribulus might decrease how well the body gets rid of lithium. This could increase how much lithium is in the body and result in serious side effects.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Tribulus may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Tribulus might lower blood sugar levels. Taking tribulus along with diabetes medications might cause blood sugar to drop too low.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Tribulus may lower blood pressure.
+Clinical Effect: Risk of hypotension (low blood pressure).
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Tribulus might lower blood pressure. Taking tribulus along with medications that lower blood pressure might cause blood pressure to go too low.
+
+26)
+Primary Name: Gokshura (Frt.)
+Canonical Name: Gokshura
+System: Ayurveda
+
+Indian/Common Names: Gokshura, Gokhru, Gokantaka, Bindii, Palleru-Mullu
+
+English Names: Puncture Vine, Caltrop, Goathead, Devil’s Thorn
+
+Botanical Names: Tribulus terrestris
+
+Normalized Search Aliases: gokshura, gokhru, tribulus terrestris, puncture vine, caltrop
+
+
+Interaction 1
+
+Severity: Moderate
+Drug: Lithium
+Drug Type: Specific Drug
+Drug Class: Mood Stabilizer
+Brand Names: none
+Mechanism: Tribulus may act like a diuretic and reduce lithium elimination.
+Clinical Effect: Increased lithium levels leading to potential toxicity.
+Recommendation: Consult a healthcare provider; dose adjustment may be required.
+Evidence Text: Tribulus might have an effect like a water pill. Taking tribulus might decrease how well the body gets rid of lithium. This could increase how much lithium is in the body and result in serious side effects.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Tribulus may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Tribulus might lower blood sugar levels. Taking tribulus along with diabetes medications might cause blood sugar to drop too low.
+
+Interaction 3
+
+Severity: Moderate
+Drug: Antihypertensive drugs
+Drug Type: Drug Class
+Drug Class: Blood Pressure Medications
+Brand Names: none
+Mechanism: Tribulus may lower blood pressure.
+Clinical Effect: Risk of hypotension (low blood pressure).
+Recommendation: Monitor blood pressure closely.
+Evidence Text: Tribulus might lower blood pressure. Taking tribulus along with medications that lower blood pressure might cause blood pressure to go too low.
+
+27)
+HERB_IDENTITY
+
+Primary Name: Guduchi (St.)
+Canonical Name: Guduchi
+System: Ayurveda
+
+Indian/Common Names: Guduchi, Giloy, Gilo, Gulvel, Gurcha, Amrita, Amritha
+
+English Names: Heart-Leaved Moonseed, Indian Tinospora, Heavenly Elixir
+
+Botanical Names: Tinospora cordifolia
+
+Normalized Search Aliases: guduchi, giloy, tinospora cordifolia, amrita, heart leaved moonseed
+
+Interaction 1
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Antidiabetic Agents
+Brand Names: none
+Mechanism: Tinospora cordifolia may lower blood sugar levels.
+Clinical Effect: Risk of hypoglycemia (low blood sugar).
+Recommendation: Monitor blood sugar levels closely.
+Evidence Text: Tinospora cordifolia might lower blood sugar levels. Taking it along with diabetes medications might cause blood sugar to drop too low.
+
+Interaction 2
+
+Severity: Moderate
+Drug: Immunosuppressants
+Drug Type: Drug Class
+Drug Class: Immunosuppressive Agents
+Brand Names: none
+Mechanism: Tinospora cordifolia may increase immune system activity.
+Clinical Effect: Reduced effectiveness of immunosuppressant medications.
+Recommendation: Avoid combination or consult a healthcare provider.
+Evidence Text: Tinospora cordifolia can increase the activity of the immune system. Taking it along with medications that decrease the immune system might decrease the effects of these medications.
+
+Interaction 3
+
+Severity: Moderate
+Drug: CYP1A2 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Tinospora cordifolia may alter liver enzyme (CYP1A2) activity.
+Clinical Effect: Changed drug effects and side effects.
+Recommendation: Monitor therapy and adjust if needed.
+Evidence Text: Tinospora cordifolia might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+Interaction 4
+
+Severity: Moderate
+Drug: CYP2C19 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Tinospora cordifolia may alter CYP2C19 metabolism.
+Clinical Effect: Altered drug effectiveness and side effects.
+Recommendation: Monitor drug response.
+Evidence Text: Tinospora cordifolia might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+Interaction 5
+
+Severity: Moderate
+Drug: CYP2C9 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Tinospora cordifolia may affect CYP2C9 enzyme activity.
+Clinical Effect: Increased or decreased drug levels and side effects.
+Recommendation: Monitor closely and adjust dosage if required.
+Evidence Text: Tinospora cordifolia might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+Interaction 6
+
+Severity: Moderate
+Drug: CYP2D6 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Tinospora cordifolia may alter CYP2D6 metabolism.
+Clinical Effect: Altered drug effects and potential side effects.
+Recommendation: Monitor therapy and consult a healthcare provider.
+Evidence Text: Tinospora cordifolia might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+
+28)
+HERB_IDENTITY
+
+Primary Name: Guggulu
+Canonical Name: Guggulu
+System: Ayurveda
+
+Indian/Common Names: Guggulu, Guggal, Koushika, Mukul Myrrh Tree, Palankasha
+
+English Names: Guggul Gum, Indian Bdellium, Guggulipids
+
+Botanical Names: Commiphora wightii, Commiphora mukul, Balsamodendron mukul
+
+Normalized Search Aliases: guggulu, guggul gum, commiphora wightii, commiphora mukul, indian bdellium
+
+
+## Interaction 1
+
+Severity: Moderate
+Drug: Estrogens
+Drug Type: Drug Class
+Drug Class: Hormones
+Brand Names: none
+Mechanism: Guggul contains chemicals that may mimic estrogen.
+Clinical Effect: Increased risk of estrogen-related side effects.
+Recommendation: Use cautiously; monitor for side effects.
+Evidence Text: Guggul contains chemicals that might work like estrogen. Taking large amounts of guggul might increase the side effects of estrogen.
+
+---
+
+## Interaction 2
+
+Severity: Moderate
+Drug: CYP3A4 substrates
+Drug Type: Drug Class
+Drug Class: Liver Enzyme Metabolized Drugs
+Brand Names: none
+Mechanism: Guggul may alter CYP3A4 enzyme activity in the liver.
+Clinical Effect: Altered drug effects and side effects.
+Recommendation: Monitor therapy and adjust dosage if needed.
+Evidence Text: Guggul might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+---
+
+## Interaction 3
+
+Severity: Moderate
+Drug: Tamoxifen
+Drug Type: Specific Drug
+Drug Class: Antineoplastic Agent
+Brand Names: Nolvadex
+Mechanism: Guggul may affect estrogen levels in the body.
+Clinical Effect: Reduced effectiveness of tamoxifen.
+Recommendation: Consult a healthcare provider before combining.
+Evidence Text: Guggul might affect estrogen in the body. By affecting estrogen in the body, guggul might decrease the effects of tamoxifen.
+
+---
+
+## Interaction 4
+
+Severity: Moderate
+Drug: Thyroid hormone
+Drug Type: Drug Class
+Drug Class: Hormone Replacement
+Brand Names: none
+Mechanism: Guggul may increase thyroid hormone levels.
+Clinical Effect: Risk of excessive thyroid hormone effects and side effects.
+Recommendation: Monitor thyroid levels and adjust dose if needed.
+Evidence Text: Guggul might increase thyroid hormone in the body. Taking guggul along with thyroid hormone therapy might increase the effects and side effects of thyroid hormones.
+
+---
+
+## Interaction 5
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: none
+Mechanism: Guggul may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Monitor for bleeding and use cautiously.
+Evidence Text: Guggul might slow blood clotting. Taking guggul along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+
+---
+
+## Interaction 6
+
+Severity: Moderate
+Drug: Propranolol
+Drug Type: Specific Drug
+Drug Class: Beta Blocker
+Brand Names: Inderal
+Mechanism: Guggul may decrease absorption of propranolol.
+Clinical Effect: Reduced effectiveness of propranolol.
+Recommendation: Monitor blood pressure and heart rate.
+Evidence Text: Guggul might decrease how much propranolol the body absorbs. Taking guggul along with propranolol might decrease the effects of propranolol.
+
+---
+
+## Interaction 7
+
+Severity: Moderate
+Drug: Contraceptive drugs
+Drug Type: Drug Class
+Drug Class: Hormonal Contraceptives
+Brand Names: none
+Mechanism: Guggul may mimic estrogen.
+Clinical Effect: Increased risk of estrogen-related side effects.
+Recommendation: Monitor for side effects when combining.
+Evidence Text: Some birth control pills contain estrogen. Guggul contains chemicals that might work like estrogen. Guggul might increase the side effects of birth control pills.
+
+---
+
+## Interaction 8
+
+Severity: Moderate
+Drug: Diltiazem
+Drug Type: Specific Drug
+Drug Class: Calcium Channel Blocker
+Brand Names: Cardizem
+Mechanism: Guggul may decrease absorption of diltiazem.
+Clinical Effect: Reduced effectiveness of diltiazem.
+Recommendation: Monitor blood pressure and heart function.
+Evidence Text: Taking guggul can decrease how much diltiazem the body absorbs. Taking guggul along with diltiazem might decrease the effects of diltiazem.
+
+---
+
+## Interaction 9
+
+Severity: Moderate
+Drug: Rosuvastatin
+Drug Type: Specific Drug
+Drug Class: HMG-CoA Reductase Inhibitor (Statin)
+Brand Names: Crestor
+Mechanism: Guggul may increase absorption of rosuvastatin.
+Clinical Effect: Increased effects and risk of side effects from rosuvastatin.
+Recommendation: Monitor cholesterol levels and side effects.
+Evidence Text: Guggul might increase how much rosuvastatin the body absorbs. Taking guggul along with rosuvastatin might increase the effects and side effects of rosuvastatin.
+
+
+29)
+## HERB_IDENTITY
+
+Primary Name: Gunja (Sd.)
+Canonical Name: Gunja
+System: Ayurveda
+
+Indian/Common Names: Gunja, Gunchi, Guruginia, Chanothi, Chunhali, Rati, Kundumani
+
+English Names: Rosary Pea, Bead Vine, Jequirity Bean, Crab’s Eye, Lucky Bean, Precatory Bean
+
+Botanical Names: Abrus precatorius, Glycine abrus
+
+Normalized Search Aliases: gunja, abrus precatorius, rosary pea, jequirity bean, bead vine
+
+## Interaction 1
+
+Severity: Moderate
+Drug: Antidiabetes drugs
+Drug Type: Drug Class
+Drug Class: Diabetes Medications
+Brand Names: Amaryl, DiaBeta, Glynase PresTab, Micronase, Glucophage, Actos, Avandia
+Mechanism: Jequirity might lower blood sugar.
+Clinical Effect: Risk of blood sugar dropping too low (hypoglycemia).
+Recommendation: Monitor blood sugar closely; dose adjustments of diabetes medications may be needed.
+Evidence Text: Jequirity might lower blood sugar. Diabetes medications are also used to lower blood sugar. Taking jequirity along with diabetes medications might cause your blood sugar to go too low.
+
+---
+
+## Interaction 2
+
+Severity: Moderate
+Drug: Anticoagulant / Antiplatelet drugs
+Drug Type: Drug Class
+Drug Class: Blood Thinners
+Brand Names: Aspirin, Plavix, Voltaren, Cataflam, Advil, Motrin, Anaprox, Naprosyn, Fragmin, Lovenox, Coumadin, Heparin
+Mechanism: Jequirity may slow blood clotting.
+Clinical Effect: Increased risk of bruising and bleeding.
+Recommendation: Monitor for signs of bleeding; use cautiously.
+Evidence Text: Jequirity might slow blood clotting. Taking jequirity along with medications that also slow blood clotting might increase the chances of bruising and bleeding.
+
+---
+
+## Interaction 3
+
+Severity: Moderate
+Drug: CYP3A4 substrates
+Drug Type: Drug Class
+Drug Class: Liver Metabolized Drugs
+Brand Names: none
+Mechanism: Jequirity may affect CYP3A4 enzyme activity in the liver.
+Clinical Effect: Altered drug effects and side effects.
+Recommendation: Monitor therapy and adjust dosage if needed.
+Evidence Text: Jequirity might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+
+
+30)
+
+HERB_IDENTITY
+
+Primary Name: Haridra (Rhz.)
+Canonical Name: Haridra
+System: Ayurveda
+
+Indian/Common Names: Haridra, Haldi, Nisha, Rajani
+
+English Names: Turmeric, Indian Saffron, Curcumin, Turmeric Root
+
+Botanical Names: Curcuma longa, Curcuma domestica, Curcuma aromatica
+
+Normalized Search Aliases: haridra, haldi, turmeric, curcuma longa, curcumin
+
+
+INTERACTION 1
+
+Severity: Moderate
+Target: Anticoagulant / Antiplatelet drugs
+Examples: aspirin, warfarin, clopidogrel, NSAIDs
+Mechanism: Turmeric might slow blood clotting.
+Clinical effect: Increased risk of bruising and bleeding.
+Evidence: Turmeric might slow blood clotting. Taking turmeric along with medications that also slow blood clotting might increase the risk of bruising and bleeding.
+Source: WebMD
+
+INTERACTION 2
+
+Severity: Moderate
+Target: CYP3A4 substrate medications
+Examples: diltiazem, amlodipine, tacrolimus, cyclosporine
+Mechanism: Turmeric may alter liver metabolism via CYP3A4.
+Clinical effect: Increased or decreased drug effects and side effects.
+Evidence: Some medications are changed and broken down by the liver. Turmeric might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+Source: WebMD
+
+INTERACTION 3
+
+Severity: Moderate
+Target: Sulfasalazine
+Mechanism: Turmeric might increase absorption of sulfasalazine.
+Clinical effect: Increased effects and side effects.
+Evidence: Turmeric might increase how much sulfasalazine the body absorbs. Taking turmeric while taking sulfasalazine might increase the effects and side effects of sulfasalazine.
+Source: WebMD
+
+INTERACTION 4
+
+Severity: Moderate
+Target: Tramadol
+Mechanism: Turmeric may alter tramadol blood levels.
+Clinical effect: Increased or decreased pain relief and side effects.
+Evidence: Turmeric might decrease or increase how much tramadol is in the body. Taking turmeric with tramadol might increase or decrease the effects of tramadol.
+Source: WebMD
+
+INTERACTION 5
+
+Severity: Moderate
+Target: Antidiabetes drugs
+Examples: insulin, glimepiride, glyburide, metformin
+Mechanism: Turmeric may lower blood sugar.
+Clinical effect: Risk of hypoglycemia.
+Evidence: Turmeric might lower blood sugar levels. Taking turmeric along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely.
+Source: WebMD
+
+INTERACTION 6
+
+Severity: Moderate
+Target: Tacrolimus
+Brand Names: Prograf
+Mechanism: Turmeric may increase tacrolimus levels.
+Clinical effect: Increased risk of side effects, including kidney damage.
+Evidence: Turmeric might increase the amount of tacrolimus in the body. This can increase the side effects of tacrolimus and even damage the kidneys.
+Source: WebMD
+
+INTERACTION 7
+
+Severity: Moderate
+Target: Amlodipine
+Brand Names: Norvasc
+Mechanism: Turmeric may increase absorption of amlodipine.
+Clinical effect: Increased effects and side effects of amlodipine.
+Evidence: Turmeric might increase how much amlodipine the body absorbs. Taking turmeric while taking amlodipine might increase the effects and side effects of amlodipine.
+Source: WebMD
+
+INTERACTION 8
+
+Severity: Moderate
+Target: Hepatotoxic drugs
+Mechanism: Turmeric may harm the liver.
+Clinical effect: Increased risk of liver damage.
+Evidence: Turmeric might harm the liver. Some medications can also harm the liver. Taking turmeric along with a medication that can harm the liver might increase the risk of liver damage.
+Source: WebMD
+
+INTERACTION 9
+
+Severity: Moderate
+Target: Cancer medications (alkylating agents, antitumor antibiotics, topoisomerase I inhibitors)
+Mechanism: Turmeric is an antioxidant and might reduce effectiveness of some cancer drugs.
+Clinical effect: Potential reduced efficacy of cancer therapy.
+Evidence: Turmeric is an antioxidant. There is some concern that antioxidants might decrease the effects of some medications used for cancer. If you are taking medications for cancer, check with your healthcare provider before taking turmeric.
+Source: WebMD
+
+INTERACTION 10
+
+Severity: Moderate
+Target: Methotrexate
+Brand Names: Trexall
+Mechanism: Turmeric may increase liver toxicity.
+Clinical effect: Increased risk of liver damage.
+Evidence: Turmeric might harm the liver. Methotrexate can also harm the liver. Taking turmeric along with methotrexate might increase the risk of liver damage.
+Source: WebMD
+
+INTERACTION 11
+
+Severity: Moderate
+Target: Warfarin
+Brand Names: Coumadin
+Mechanism: Turmeric may increase warfarin effects.
+Clinical effect: Increased bleeding and bruising risk.
+Evidence: Warfarin is used to slow blood clotting. Taking turmeric while taking warfarin might increase the effects of warfarin and increase the risk of bleeding and bruising.
+Source: WebMD
+
+INTERACTION 12
+
+Severity: Moderate
+Target: Tamoxifen
+Brand Names: Nolvadex
+Mechanism: Turmeric may decrease tamoxifen levels.
+Clinical effect: Reduced effectiveness of tamoxifen.
+Evidence: Turmeric might decrease how much tamoxifen is in the body. Taking turmeric with tamoxifen might decrease the effects of tamoxifen.
+Source: WebMD
+
+INTERACTION 13
+
+Severity: Moderate
+Target: Drugs moved by cellular pumps (OATP, P-glycoprotein)
+Mechanism: Turmeric may alter drug transport.
+Clinical effect: Increased or decreased drug effects and side effects.
+Evidence: Some medications are moved in and out of cells by pumps. Turmeric might change how these pumps work and change how much medication stays in the body.
+Source: WebMD
+
+INTERACTION 14
+
+Severity: Minor
+Target: CYP1A2, CYP1A1 substrate medications
+Mechanism: Turmeric may alter liver metabolism.
+Clinical effect: Possible changes in drug effects or side effects.
+Evidence: Some medications are changed and broken down by the liver. Turmeric might change how quickly the liver breaks down these medications. This could change the effects and side effects of these medications.
+Source: WebMD
+
+INTERACTION 15
+
+Severity: Minor
+Target: Estrogens
+Examples: conjugated equine estrogens, ethinyl estradiol, estradiol
+Mechanism: Turmeric may interfere with estrogen activity.
+Clinical effect: Reduced effects of estrogen therapy.
+Evidence: Large amounts of turmeric might interfere with the effects of estrogen. Taking turmeric along with estrogen might decrease the effects of estrogens.
+Source: WebMD
+
+INTERACTION 16
+
+Severity: Minor
+Target: Norfloxacin
+Brand Names: Noroxin
+Mechanism: Turmeric may increase absorption of norfloxacin.
+Clinical effect: Increased effects and side effects.
+Evidence: Turmeric might increase how much norfloxacin the body absorbs. Taking turmeric while taking norfloxacin might increase the effects and side effects of norfloxacin.
+Source: WebMD
+
+INTERACTION 17
+
+Severity: Minor
+Target: Docetaxel
+Brand Names: Taxotere
+Mechanism: Turmeric may increase absorption of docetaxel.
+Clinical effect: Increased effects and side effects.
+Evidence: Turmeric might increase how much docetaxel the body absorbs. Taking turmeric while taking docetaxel might increase the effects and side effects of docetaxel.
+Source: WebMD
+
+INTERACTION 18
+
+Severity: Minor
+Target: Glyburide
+Brand Names: Diabeta
+Mechanism: Curcumin in turmeric may lower blood sugar.
+Clinical effect: Risk of hypoglycemia.
+Evidence: Curcumin might lower blood sugar. Glyburide is also used to lower blood sugar. Taking curcumin or turmeric along with glyburide might cause your blood sugar to go too low. Monitor your blood sugar closely.
+Source: WebMD
+
+INTERACTION 19
+
+Severity: Minor
+Target: Talinolol
+Mechanism: Turmeric may decrease absorption of talinolol.
+Clinical effect: Reduced effect of talinolol.
+Evidence: Turmeric might decrease how much talinolol the body absorbs. Taking turmeric while taking talinolol might decrease the effects of talinolol.
+Source: WebMD
+
+INTERACTION 20
+
+Severity: Minor
+Target: Losartan
+Brand Names: Cozaar
+Mechanism: Turmeric may increase absorption of losartan.
+Clinical effect: Increased effects and side effects.
+Evidence: Taking turmeric while taking losartan might increase the effects and side effects of losartan.
+Source: WebMD
+
+31)
+## HERB_IDENTITY
+
+Primary Name: Haritaki (Frt.)
+Canonical Name: Haritaki
+System: Ayurveda
+
+Indian/Common Names: Haritaki, Harad, Harada, Abhaya, Bala Harade, Kadukka, Kadukkai, Kadukkaya
+
+English Names: Chebulic Myrobalan, Black Myrobalan, Indian Gall Nut, Myrobalan
+
+Botanical Names: Terminalia chebula
+
+Normalized Search Aliases: haritaki, harad, terminalia chebula, chebulic myrobalan, indian gall nut
+
+
+INTERACTION 1
+
+Severity: Moderate
+Target: Chlorzoxazone
+Brand Names: Parafon Forte, Paraflex
+Mechanism: Terminalia chebula might slow the metabolism of chlorzoxazone.
+Clinical effect: Increased effects and side effects of chlorzoxazone.
+Evidence: The body breaks down chlorzoxazone to get rid of it. Terminalia chebula might decrease how quickly the body breaks down chlorzoxazone. Taking Terminalia along with chlorzoxazone might increase the effects and side effects of chlorzoxazone.
+
+INTERACTION 2
+
+Severity: Moderate
+Target: Antidiabetes drugs
+Examples: insulin, glimepiride, glyburide, metformin
+Mechanism: Terminalia chebula may lower blood sugar.
+Clinical effect: Risk of hypoglycemia.
+Evidence: Terminalia chebula might lower blood sugar levels. Taking Terminalia chebula along with diabetes medications might cause blood sugar to drop too low. Monitor your blood sugar closely.
+
+INTERACTION 3
+
+Severity: Moderate
+Target: Omeprazole
+Brand Names: Prilosec
+Mechanism: Terminalia chebula may slow the metabolism of omeprazole.
+Clinical effect: Increased effects and side effects of omeprazole.
+Evidence: The body breaks down omeprazole to get rid of it. Terminalia chebula might decrease how quickly the body breaks down omeprazole. Taking Terminalia chebula along with omeprazole might increase the effects and side effects of omeprazole.
+
+32)
+## HERB_IDENTITY
+
+Primary Name: Hingu
+Canonical Name: Hingu
+System: Ayurveda
+
+Indian/Common Names: Hingu, Heeng, Asafoetida
+
+English Names: Devil’s Dung, Giant Fennel, Food of the Gods
+
+Botanical Names: Ferula foetida, Ferula narthex, Ferula assa-foetida
+
+Normalized Search Aliases: hingu, heeng, asafoetida, ferula foetida, devil’s dung
+
+
+INTERACTION 1
+
+Severity: Moderate
+Target: Medications that slow blood clotting
+Examples: aspirin, clopidogrel (Plavix), diclofenac (Voltaren, Cataflam), ibuprofen (Advil, Motrin), naproxen (Anaprox, Naprosyn), dalteparin (Fragmin), enoxaparin (Lovenox), heparin, warfarin (Coumadin)
+Mechanism: Asafoetida may slow blood clotting.
+Clinical effect: Increased risk of bruising and bleeding.
+Evidence: Asafoetida might slow blood clotting. Taking asafoetida along with medications that also slow clotting might increase the chances of bruising and bleeding.
+
+INTERACTION 2
+
+Severity: Moderate
+Target: Medications for high blood pressure
+Examples: captopril (Capoten), enalapril (Vasotec), losartan (Cozaar), valsartan (Diovan), diltiazem (Cardizem), amlodipine (Norvasc), hydrochlorothiazide (HydroDiuril), furosemide (Lasix)
+Mechanism: Asafoetida may lower blood pressure.
+Clinical effect: Risk of blood pressure dropping too low.
+Evidence: Asafoetida seems to decrease blood pressure. Taking asafoetida along with medications for high blood pressure might cause your blood pressure to go too low.
+
+34)
+## HERB_IDENTITY
+
+Primary Name: Jatiphala (Sd.)
+Canonical Name: Jatiphala
+System: Ayurveda
+
+Indian/Common Names: Jatiphala, Jaiphal, Jatiphalam, Jaatipatree
+
+English Names: Nutmeg, Myristica, Myristica Oil
+
+Botanical Names: Myristica fragrans, Myristica officinalis
+
+Normalized Search Aliases: jatiphala, jaiphal, myristica fragrans, nutmeg, myristica
+
+Interaction 1
+
+Severity: Moderate
+Interacting Drug: Medications changed by the liver (Cytochrome P450 1A1 (CYP1A1) substrates)
+Mechanism: Nutmeg might change how quickly the liver breaks down these medications.
+Clinical Effect: Effects and side effects of these medications may increase or decrease.
+
+Interaction 2
+
+Severity: Moderate
+Interacting Drug: Medications changed by the liver (Cytochrome P450 1A2 (CYP1A2) substrates)
+Mechanism: Nutmeg might change how quickly the liver breaks down these medications.
+Clinical Effect: Effects and side effects of these medications may increase or decrease.
+
+Interaction 3
+
+Severity: Moderate
+Interacting Drug: Medications changed by the liver (Cytochrome P450 2B1 (CYP2B1) substrates)
+Mechanism: Nutmeg might change how quickly the liver breaks down these medications.
+Clinical Effect: Effects and side effects of these medications may increase or decrease.
+
+Interaction 4
+
+Severity: Moderate
+Interacting Drug: Phenobarbital (Luminal)
+Mechanism: Nutmeg might increase how quickly the body breaks down phenobarbital.
+Clinical Effect: Decreased effectiveness of phenobarbital.
+
+Interaction 5
+
+Severity: Moderate
+Interacting Drug: Drying medications (Anticholinergic drugs)
+Mechanism: Nutmeg increases acetylcholine; anticholinergic drugs block acetylcholine.
+Clinical Effect: Reduced effectiveness of anticholinergic drugs.
+
+Interaction 6
+
+Severity: Moderate
+Interacting Drug: Sedative medications (CNS depressants)
+Mechanism: Nutmeg may cause sleepiness and slow breathing; sedatives have similar effects.
+Clinical Effect: Increased risk of excessive sleepiness or breathing problems.
+
+Interaction 7
+
+Severity: Moderate
+Interacting Drug: Cholinergic drugs (used for glaucoma, Alzheimer’s disease, and other conditions)
+Mechanism: Nutmeg increases acetylcholine; these medications also increase acetylcholine.
+Clinical Effect: Increased risk of side effects.
+
+35)
+HERB_IDENTITY
+
+Primary Name: Kampilla (Frt.)
+Canonical Name: Kampilla
+System: Ayurveda
+
+Indian/Common Names: Kampilla, Kamcela, Kameela
+
+English Names: Mallotus, Rottlera Tinctoria, Spoonwood
+
+Botanical Names: Mallotus philippinensis
+
+Normalized Search Aliases: kampilla, mallotus philippinensis, rottlera tinctoria, spoonwood
+
+(NO INTERACTION)

@@ -1,0 +1,25 @@
+.image{ background-size: cover; }
+.profile{ top: -50px;  }
+.shadow { box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1); }
+
+.input-container {
+  flex: 1 1 calc(50% - 2rem); 
+  min-width: 300px;          
+}
+
+@media (max-width: 768px) {
+  .input-container {
+    flex: 1 1 100%;        
+  }
+}
+
+
+@media (min-width: 1024px) {
+  .desktop{
+    padding-left: 120px !important; 
+    padding-right: 120px !important; 
+
+  }
+}
+
+

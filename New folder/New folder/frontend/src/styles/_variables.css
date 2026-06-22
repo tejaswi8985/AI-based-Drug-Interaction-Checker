@@ -1,0 +1,70 @@
+:root {
+  /* text-color */
+  --color-white : white;
+  --color-black : black;
+  --color-gray : rgb(208, 216, 216);
+  --color-gray-dark : rgb(101, 100, 100);
+
+  
+  /* primary */
+--color-primary : blue;
+--color-primary-dark : rgb(10, 10, 155);
+--color-primary-dark-2 : rgb(11, 11, 130);
+--color-primary-light : rgba(218, 236, 247, 0.979);
+--color-text-primary-light :  rgba(32, 147, 218, 0.979);
+
+/* buttons and link */
+--color-button : rgb(229, 187, 37);
+--color-ancor-tags : rgb(0, 170, 255);
+
+/* alerts */
+--color-success : green;
+--color-error : red;
+--color-warning : yellow;
+}
+
+
+/* ========== BACKGROUNDS ========== */
+.bg-white { background-color: var(--color-white); }
+.bg-black { background-color: var(--color-black); }
+.bg-gray { background-color: var(--color-gray); }
+
+.bg-primary { background-color: var(--color-primary); }
+.bg-primary-light { background-color: var(--color-primary-light); }
+.bg-primary-dark { background-color: var(--color-primary-dark); }
+.bg-primary-dark-2 { background-color: var(--color-primary-dark-2); }
+
+.bg--button { background-color: var(--color-button); }
+.bg-ancor-tags { background-color: var(--color-ancor-tags); }
+
+.bg-success { background-color: var(--color-success); }
+.bg-error { background-color: var(--color-error); }
+.bg-warning { background-color: var(--color-warning); }
+
+.bg-button{ background-color: var(--color-button);     }
+
+
+/* ========== TEXT COLORS ========== */
+.text-white { color: var(--color-white); }
+.text-black { color: var(--color-black); }
+.text-gray { color: var(--color-gray-dark); }
+
+.text-primary { color: var(--color-primary); }
+.text-primary-light { color: var(--color-text-primary-light); }
+.text-primary-dark { color: var(--color-primary-dark); }
+.text-primary-dark-2 { color: var(--color-primary-dark-2); }
+
+
+.text--button { color: var(--color-button); }
+.text-ancor-tags { color: var(--color-ancor-tags); }
+
+.text-success { color: var(--color-success); }
+.text-error { color: var(--color-error); }
+.text-warning { color: var(--color-warning); }
+
+
+/* ========== BORDERS ========== */
+.border-success { border-color: var(--color-success-border); }
+.border-error { border-color: var(--color-error-border); }
+.border-warning { border-color: var(--color-warning-border); }
+.border-info { border-color: var(--color-info-border); }
